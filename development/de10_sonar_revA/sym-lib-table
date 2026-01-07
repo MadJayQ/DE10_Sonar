@@ -1,4 +1,5 @@
 (sym_lib_table
   (version 7)
   (lib (name "TUSS4470")(type "KiCad")(uri "${KIPRJMOD}/TUSS4470.kicad_sym")(options "")(descr ""))
+  (lib (name "ADS805E")(type "KiCad")(uri "${KIPRJMOD}/ADS805E.kicad_sym")(options "")(descr ""))
 )
